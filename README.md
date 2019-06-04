@@ -1,7 +1,7 @@
 D 3D
 ====
 
-## The 3d model of D's mascot as depicted on the homepage
+## The 3d model of D's mascot as depicted on the homepage(https://dlang.org/download.html#dmd)
 ___
 
 ## Original image
