@@ -1,8 +1,6 @@
 D 3D
 ====
 
-![D](3DDAnimatedGIF.gif)
-
 ## The 3d model of D's mascot as depicted on the homepage
 ___
 
