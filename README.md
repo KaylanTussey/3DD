@@ -9,4 +9,4 @@ D 3D
 ![alt text](d3.png)
 
 
-## Open "3D D Programming Language Symbol.glb" in 3D Viewer, or in Paint3D on windows 10
+## Open "3D D Programming Language Symbol.glb" in 3D Viewer, or in Paint3D on windows 10. Also, you can use d3.png as a canvas.
